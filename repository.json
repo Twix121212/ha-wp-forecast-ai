@@ -1,5 +1,5 @@
 {
-  "name": "WP Forecast AI Add-ons",
-  "url": "https://example.invalid/wp-forecast-ai",
-  "maintainer": "Local Home Assistant user"
+  "name": "WP Forecast AI",
+  "url": "https://github.com/Twix121212/ha-wp-forecast-ai",
+  "maintainer": "Twix121212"
 }
