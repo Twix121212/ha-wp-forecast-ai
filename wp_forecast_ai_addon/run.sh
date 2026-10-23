@@ -1,1 +1,0 @@
-#!/usr/bin/with-contenv bashio\nset -e\nexport WPFA_CONFIG=/data/options.json\nexec python -m wp_forecast_ai\n
